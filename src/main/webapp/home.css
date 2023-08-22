@@ -1,0 +1,22 @@
+body{
+	background-image:url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+
+}
+nav button{
+	height: 40px;
+	width: 60px;
+}
+nav{
+	display: flex;
+	justify-content: space-around;
+}
+nav div{
+	display: flex;
+	justify-content: end;
+}
+body h1{
+	color: white;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
